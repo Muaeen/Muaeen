@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"  />
+<img align="right" height="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"  />
 
 ###
 
