@@ -1,16 +1,18 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">Hi 👋, I'm Muaeen</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Muaeen&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=20" alt="header" />
+</p>
 
+<!-- ===== ANIMATED TYPING TEXT ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Turning+data+into+decisions;Deep+Learning+%7C+MLOps+%7C+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=Machine+Learning+Engineer;Turning+data+into+decisions;Deep+Learning+%7C+MLOps+%7C+Data+Science" alt="Typing SVG" />
   </a>
 </p>
 
 ###
 
-<!-- ===== ABOUT ME ===== -->
+<!-- ===== ABOUT ME + IMAGE GIF ===== -->
 <img align="right" height="260" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="data gif" />
 
 ### 🧠 About Me
@@ -68,6 +70,15 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muaeen&theme=dracula&hide_border=false" height="165" alt="streak stats" />
+</div>
+
+<!-- ===== ANIMATED CONTRIBUTION SNAKE ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muaeen/Muaeen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muaeen/Muaeen/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Muaeen/Muaeen/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
